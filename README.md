@@ -13,49 +13,43 @@ This project aimed to create an informative and visually engaging Power BI dashb
 # 1. Country of Survey Takers (Top Left - Treemap)
     Visualization Type: Treemap
     Description: This treemap displays the countries of the survey respondents, providing an overview of the geographic distribution
-    Insights: The larger sections in the treemap indicate countries with more survey responses. From the snapshot, the United States has a significant number of respondents,               followed by countries like India, the United Kingdom, and Canada
-    Impact: This visualization helps to identify which regions have the highest concentration of data professionals, offering insights into where data careers are popular 
-            and where the dataset has high representation.
+    Insights: The larger sections in the treemap indicate countries with more survey responses. From the snapshot, the United States has a significant number of respondents, followed by countries like India, the United Kingdom, and Canada
+    Impact: This visualization helps to identify which regions have the highest concentration of data professionals, offering insights into where data careers are popular and where the dataset has high representation.
    
 # 2. Average Salary by Job Title (Top Center - Bar Chart)
     Visualization Type: Bar Chart
     Description: This chart compares the average salaries across different job titles within the data field.
-    Insights: Higher-paying roles such as Data Scientist and Data Engineer stand out, while roles like Data Analyst and Database Developer appear to have lower average                     salaries.
-    Impact: By providing a quick view of salary ranges across roles, this visualization informs viewers about potential earning opportunities associated with each job title,             helping those entering the field make informed career choices.
+    Insights: Higher-paying roles such as Data Scientist and Data Engineer stand out, while roles like Data Analyst and Database Developer appear to have lower average salaries.
+    Impact: By providing a quick view of salary ranges across roles, this visualization informs viewers about potential earning opportunities associated with each job title, helping those entering the field make informed career choices.
     
 # 3. Count of Survey Takers & Average Age of Survey Taker (Top Right - KPIs)
     Visualization Type: KPI Indicators
     Description: These KPI indicators provide an at-a-glance summary of the total number of survey participants and the average age of respondents.
     Insights: The dashboard snapshot shows there are 630 survey respondents with an average age of around 29.87 years.
-    Impact: These KPIs help provide context for the dataset, showing the sample size and age demographic, which could be useful in understanding the survey’s         
-            representativeness for different age groups.
+    Impact: These KPIs help provide context for the dataset, showing the sample size and age demographic, which could be useful in understanding the survey’s representativeness for different age groups.
 # 4. Favorite Programming Language (Bottom Left - Stacked Bar Chart)
     Visualization Type: Stacked Bar Chart
     Description: This chart reveals the preferred programming languages among survey respondents, segmented by job titles.
-    Insights: Python is by far the most popular programming language, followed by smaller groups preferring languages like R, SQL, and others. Each segment within the bars   
-              represents a different job title’s preference.
-    Impact: This visualization highlights the demand for specific programming skills across various roles, confirming Python's dominant position in the data field. It can   
-            help new data professionals decide which programming languages to prioritize in their learning.
+    Insights: Python is by far the most popular programming language, followed by smaller groups preferring languages like R, SQL, and others. Each segment within the bars represents a different job title’s preference.
+    Impact: This visualization highlights the demand for specific programming skills across various roles, confirming Python's dominant position in the data field. It can help new data professionals decide which programming languages to prioritize in their learning.
             
 # 5. Difficulty to Break into Data (Bottom Center - Donut Chart)
     Visualization Type: Donut Chart
     Description: This chart displays the perceived difficulty of entering the data profession, with each segment representing a level of difficulty.
-    Insights: The majority of respondents found breaking into the data field to be "Difficult" or "Neither easy nor difficult." A smaller percentage found it "Easy" or "Very               Easy."
-    Impact: This chart provides a realistic view of the challenges faced by newcomers, setting accurate expectations for aspiring data professionals. It also underscores the             need for structured guidance and resources for breaking into data roles.
+    Insights: The majority of respondents found breaking into the data field to be "Difficult" or "Neither easy nor difficult." A smaller percentage found it "Easy" or "Very Easy."
+    Impact: This chart provides a realistic view of the challenges faced by newcomers, setting accurate expectations for aspiring data professionals. It also underscores the need for structured guidance and resources for breaking into data roles.
     
 # 6. Happiness with Work/Life Balance (Right Center - Gauge Chart)
     Visualization Type: Gauge Chart
     Description: This gauge measures respondents' satisfaction with their work-life balance on a scale from 0 to 10.
-    Insights: The gauge shows an average satisfaction score of around 5.74 out of 10, indicating that work-life balance is somewhat moderate but may be an area of       
-              improvement.
-    Impact: By visualizing work-life balance satisfaction, this gauge can help employers and industry leaders understand how the field performs on work-life balance and 
-            where improvements may be needed to retain talent.
+    Insights: The gauge shows an average satisfaction score of around 5.74 out of 10, indicating that work-life balance is somewhat moderate but may be an area of improvement.
+    Impact: By visualizing work-life balance satisfaction, this gauge can help employers and industry leaders understand how the field performs on work-life balance and where improvements may be needed to retain talent.
             
 # 7. Happiness with Salary (Bottom Right - Gauge Chart)
     Visualization Type: Gauge Chart
     Description: This gauge measures respondents' satisfaction with their salary on a scale from 0 to 10.
     Insights: With a satisfaction score of around 4.27, salary satisfaction appears lower compared to work-life balance.
-    Impact: Low satisfaction with salary suggests a potential gap between salary expectations and reality, signaling to employers that salary may be a key area to address to             improve job satisfaction in data roles.
+    Impact: Low satisfaction with salary suggests a potential gap between salary expectations and reality, signaling to employers that salary may be a key area to address to improve job satisfaction in data roles.
     
 # Key Achievements and Impact of the Visualization:
 1). Enhanced Data Transparency: This dashboard brings clarity to various aspects of the data profession, such as typical salaries, popular programming languages, and the geographic distribution of professionals.
