@@ -3,11 +3,11 @@ This repository contains a Power BI Dashboard created as part of a data visualiz
 
 # PROJECT OVERVIEW:
 This project aimed to create an informative and visually engaging Power BI dashboard that summarizes responses from data professionals worldwide. The dashboard allows stakeholders and viewers to gain a deeper understanding of the landscape of data roles, including:
-1). Geographic distribution of survey respondents
-2). Average salaries across job titles
-3). Preferred programming languages
-4). Perceived difficulty in entering the data profession
-5). Job satisfaction levels in terms of work-life balance and salary
+1. Geographic distribution of survey respondents
+2. Average salaries across job titles
+3. Preferred programming languages
+4. Perceived difficulty in entering the data profession
+5. Job satisfaction levels in terms of work-life balance and salary
 
 # Features and Visualizations
 # 1. Country of Survey Takers (Top Left - Treemap)
@@ -52,26 +52,26 @@ This project aimed to create an informative and visually engaging Power BI dashb
     Impact: Low satisfaction with salary suggests a potential gap between salary expectations and reality, signaling to employers that salary may be a key area to address to improve job satisfaction in data roles.
     
 # Key Achievements and Impact of the Visualization:
-1). Enhanced Data Transparency: This dashboard brings clarity to various aspects of the data profession, such as typical salaries, popular programming languages, and the geographic distribution of professionals.
-2). Career Guidance: Newcomers to the field can use these insights to make more informed decisions about learning paths, job expectations, and role selection.
-3). Industry Insights for Employers: Companies and recruiters can use the dashboard to understand trends in job satisfaction, skills demand, and work-life balance, helping them align their offerings with professional preferences.
-4). Informed Decision-Making: The visualizations enable a quick understanding of complex data points, supporting stakeholders in making data-driven decisions about workforce planning and skill development.
+1. Enhanced Data Transparency: This dashboard brings clarity to various aspects of the data profession, such as typical salaries, popular programming languages, and the geographic distribution of professionals.
+2. Career Guidance: Newcomers to the field can use these insights to make more informed decisions about learning paths, job expectations, and role selection.
+3. Industry Insights for Employers: Companies and recruiters can use the dashboard to understand trends in job satisfaction, skills demand, and work-life balance, helping them align their offerings with professional preferences.
+4. Informed Decision-Making: The visualizations enable a quick understanding of complex data points, supporting stakeholders in making data-driven decisions about workforce planning and skill development.
 
 # How to Download and Open the Dashboard:
-1). Download the .pbix File:
-2). Download the Data_Professional_Survey_Dashboard.pbix file from this repository.
-3). Install Power BI Desktop: If you don’t already have it, download and install Power BI Desktop, which is free software from Microsoft for creating and viewing Power BI 
+1. Download the .pbix File:
+2. Download the Data_Professional_Survey_Dashboard.pbix file from this repository.
+3. Install Power BI Desktop: If you don’t already have it, download and install Power BI Desktop, which is free software from Microsoft for creating and viewing Power BI 
     reports.
-4). Open the .pbix File: 
-    a). Launch Power BI Desktop.
-    b). Go to File > Open and select the downloaded .pbix file to load the dashboard.
+4. Open the .pbix File: 
+    1. Launch Power BI Desktop.
+    2. Go to File > Open and select the downloaded .pbix file to load the dashboard.
 
 # Interactivity
 The dashboard will remain fully interactive when opened in Power BI Desktop. Users can:
-1). Filter data by job title and other categories.
-2). Hover over visuals for detailed tooltips and insights.
-3). Click on specific data points to cross-filter related visuals for a more in-depth exploration of the dataset.
-4). This interactivity allows users to explore the survey data and gain insights in real-time, making it easy to customize the view and understand specific details of the data professional landscape.
+1. Filter data by job title and other categories.
+2. Hover over visuals for detailed tooltips and insights.
+3. Click on specific data points to cross-filter related visuals for a more in-depth exploration of the dataset.
+4. This interactivity allows users to explore the survey data and gain insights in real-time, making it easy to customize the view and understand specific details of the data professional landscape.
 
 # Conclusion
 This Power BI Dashboard provides a comprehensive overview of the data profession landscape based on the survey dataset by Alex Freberg. Through insightful visualizations and interactivity, it offers data professionals, employers, and aspiring entrants to the field valuable insights into job trends, satisfaction levels, and skill preferences. The dashboard not only informs but also empowers its viewers to make data-driven decisions aligned with the latest industry trends.
